@@ -1,3 +1,7 @@
+<img src="https://media.giphy.com/media/kEX914G9LzG62umTDC/giphy.gif" width="100%"> 
+
+__
+
 ### Hi there 👋
 
 <!--
