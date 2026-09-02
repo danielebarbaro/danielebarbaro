@@ -83,12 +83,4 @@ Everything else lives on Packagist, under [plin-code](https://packagist.org/pack
 
 More on [Medium](https://medium.com/@daniele.barbaro).
 
-## GitHub stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielebarbaro&show_icons=true&locale=en&layout=compact" alt="Top languages" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielebarbaro&show_icons=true&locale=en" alt="GitHub stats" /></p>
-
-<br clear="both">
-
 <sub>Off keyboard: hiking boots, a motorbike, and a sourdough starter that needs more attention than most microservices. There are a few hidden pages on <a href="https://daniele.barbaro.online/">my site</a>, and at worst you will learn <a href="https://daniele.barbaro.online/contents/hamburger">how to make a burger</a>.</sub>
